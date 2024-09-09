@@ -21,9 +21,12 @@ iframe{
     width: 800px;
     margin-top: 30px;
     margin-bottom: 30px;
-    text-align: center;
+    
 }
 
 header{
+    text-align: center;
+}
+p{
     text-align: center;
 }
