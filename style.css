@@ -16,3 +16,7 @@ body{
     margin-right: 150px;
     margin-left: 80px;
 }
+
+iframe{
+    width: 800px;
+}
