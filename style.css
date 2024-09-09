@@ -20,3 +20,7 @@ body{
 iframe{
     width: 800px;
 }
+
+header{
+    text-align: center;
+}
